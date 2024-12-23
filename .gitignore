@@ -1,0 +1,64 @@
+#_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+ Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+dist/
+build/
+env/
+venv/
+.venv/
+.Python
+coverage.*
+.cache
+*.sqlite3
+*.ipynb_checkpoints
+model.pth
+*.log
+*.log.*
+
+# FastAPI
+*.db
+*.sqlite
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.yarn-integrity
+.env
+
+# PyTorch
+checkpoints/
+*.pth
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# macOS
+.DS
